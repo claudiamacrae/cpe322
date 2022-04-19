@@ -80,7 +80,7 @@
     _=/usr/bin/env
     OLDPWD=/home/pi/iot/lesson1
 ```
-![cmds]https://user-images.githubusercontent.com/25110110/164079728-e7283a1c-a59b-4dd4-9617-28fe08c73ac0.JPG
+![cmds]https://user-images.githubusercontent.com/25110110/164079728-e7283a1c-a59b-4dd4-9617-28fe08c73ac0.JPG "commands"
 
 ![uman]https://user-images.githubusercontent.com/25110110/164079723-a6b87477-809b-4042-803b-382b5b4f198d.JPG
 
