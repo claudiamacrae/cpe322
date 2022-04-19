@@ -32,7 +32,7 @@
 
 ## Output from my Raspberry Pi:
 
-    ![hostname](link)
+![hostname]https://user-images.githubusercontent.com/25110110/164079729-5f251926-0e16-4093-b16e-8162f9bca46b.JPG
 ```console
     SHELL=/bin/bash
     COLORTERM=truecolor
@@ -80,9 +80,11 @@
     _=/usr/bin/env
     OLDPWD=/home/pi/iot/lesson1
 ```
-![photo](link1)
+![cmds]https://user-images.githubusercontent.com/25110110/164079728-e7283a1c-a59b-4dd4-9617-28fe08c73ac0.JPG
 
-![photo](link2)
+![uman]https://user-images.githubusercontent.com/25110110/164079723-a6b87477-809b-4042-803b-382b5b4f198d.JPG
+
+![uman]https://https://user-images.githubusercontent.com/25110110/164079731-8082f311-ef34-4667-a195-cb457acb8e6d.JPG
 
    **pi@ctmpi:~/iot $** netstat
 ```console
