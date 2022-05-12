@@ -50,4 +50,5 @@ Application Options:
   --display=DISPLAY                   X display to use
 
 pi@ctmpi: ~/demo $ gimp -a intrusiondetection.png
+```
 ![lab9](https://user-images.githubusercontent.com/25110110/167980478-609e795d-705c-4171-b8fd-3e8d50e3067c.png)
