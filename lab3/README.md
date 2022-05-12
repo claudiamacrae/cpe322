@@ -1,4 +1,4 @@
-# Labs 1 & 2 — Python
+# Lab 3 — Python
 
 ```console
 pi@ctmpi: ~/iot/lesson3 $python3 julian.py
